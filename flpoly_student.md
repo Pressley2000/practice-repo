@@ -1,27 +1,27 @@
-## First Name Last Name
+## Pressley Hendrix
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Macroeconomics
 
-- Course 3
+- Operations Research
 
-- Course 4
+- Intro to Business Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Dirt Biking
 
-- Thing 2
+- Food of all kinds
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+-  <https://tetris.com/>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
